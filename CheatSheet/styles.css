@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+table {
+    border: 2px solid;
+    width: 125
+    0;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+thead {
+    background-color: blanchedalmond;
+    width: auto;
+}
+
+td {
+    border-top: 1px solid black;
+    width: auto; 
+}
+th {
+    background-color: blanchedalmond;
+    width: 20px;
+}
+/*CLASS SELECTORS*/
+.col-1 {
+    width: 200px;
+}
+.col-2 {
+    width: 350px;
+}
+.col-3 {
+    width: 200px;
+}
+
+.col-4 {
+    width: 400px;
+}
+.scope {
+    border-top: 1px solid black;
+
+}
